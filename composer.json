@@ -2,7 +2,7 @@
     "name": "bhaveshpp/module-shipping-restriction-over-month",
     "description": "Restrict shipping method for some perticuler product on specific time period",
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "1.0.0.0",
     "prefer-stable": true,
     "license": ["OSL-3.0","AFL-3.0"],
     "require": 
