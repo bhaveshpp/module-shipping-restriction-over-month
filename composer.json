@@ -20,7 +20,7 @@
         ],
         "psr-4": 
         {
-            "Bhaveshpp\\ShippingRestrictionOverMonth": ""
+            "Bhaveshpp\\ShippingRestrictionOverMonth\\": ""
         }
     },
     "authors": [
